@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Archived notebooks & data
+/notebooks/archived
+/data/frankfurt_wolfsburg_example.json
+
+# Reference documents
+20210408 Definition & Beispiele.pdf
+event_types.csv
+qualifier_types.csv
